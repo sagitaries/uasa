@@ -1,0 +1,36 @@
+{
+    "Anggota": [
+        {
+            "_id": "67642f16d9ddb5f766e1e712",
+            "Nama": "Aulia Putri",
+            "Id_Anggota": "A001",
+            "Alamat": "Depok",
+            "Jenis Kelamin": "Perempuan",
+            "Nomor Telepon": 80806060404,
+            "Tempat Tanggal Lahir": "Depok, 12 Desember 2012",
+            "Status": "Aktif"
+        }
+    ],
+    "Aktivitaslog": [
+        {
+            "_id": "6764f1c7b14309f60ceb17cb",
+            "Id Petugas": "PT001",
+            "Aktivitas": "Menambahkan buku baru",
+            "Waktu": "20 Desember 2024 20:20:20 WIB"
+        }
+    ],
+    "Koleksi": [
+        {
+            "_id": "676431c2d9ddb5f766e1e713",
+            "Judul": "Bumi",
+            "Pengarang": "Tere Liye",
+            "Edisi": "Edisi 1",
+            "Tempat Terbit": "Jakarta",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": 2014,
+            "Deskripsi Fisik": "iv, 440 halaman: ilustrasi; 21 cm.",
+            "ISBN": "978-602-03-0286-4",
+            "Subjek": "Fiksi"
+        }
+    ]
+}
